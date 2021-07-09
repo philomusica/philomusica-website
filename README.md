@@ -8,7 +8,7 @@ This repository contains the content, code and configuration for the [Philomusic
 The email service is not configred here; this is just the website. I have set up Philomusica emails to the @philomusica.org.uk domain through [One.com](https://one.com).
 
 ## Why a static site generator?
-There are many different ways to create and host a website. To explain why I chose a static site generator, here is an summary of the different options available. Generally speaking there are two types of websites, dynamic and static.
+There are many different ways to create and host a website. To explain why I chose a static site generator, here is a summary of the different options available. Generally speaking there are two types of websites, dynamic and static.
 
 #### Dynamic websites
 Dynamic websites work as follows. When a user visits a dynamic site the web server (where the website is hosted) receives the request, various bits of server code perform logic and the content (i.e. all the text, images etc.) are retrieved from a database. The server constructs the website on the fly, combining the static aspects (the theme and functionality) with the content from the database. This constructed website mainly comprises three types of files: namely HTML, CSS and JavaScript. HTML files contain the websites content (text, images, links etc.) in a structured format (as an analogy to grammar these are your 'nouns', the 'things' on your site). CSS controls the style: font type, sizing, colours, spacing and layout (in grammar terms the 'adjectives', ways of describing and decorating the nouns). JavaScript makes the site interactive by reacting to the user's input (submitting forms) and performing actions both immediately visible (a moving thing on the site) and more behind the scenes (making requests to external resources) (in grammar terms the 'verbs'). Once constructed, it is sent to the users browser which converts the HTML, CSS and JavaScript files into the nice website that the user sees.
@@ -21,6 +21,7 @@ A static site in some ways is much simpler. A web developer will write all the H
 #### Dynamic
 Pros
 - A website-builder (dynamic) is very easy to use. You don't have to be technical to create and maintain these sites.
+
 Cons
 - Dynamically generating sites is more resource intensive so normally means your website is slower at loading and will cost more in computing power.
 - When using a website-builder like Squarespace, you are paying for the convenience of an easy-to-use editor and all the administration that happens behinds the scences, therefore is often more expensive
