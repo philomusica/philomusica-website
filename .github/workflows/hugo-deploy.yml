@@ -3,8 +3,7 @@ name: Hugo Deploy
 on:
   push:
     branches:
-      - develop  # Set a branch to deploy
-  pull_request:
+      - master
 
 jobs:
   deploy:
