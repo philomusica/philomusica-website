@@ -50,7 +50,7 @@ Git is a version control system that tracks changes to files and is primarily us
 
 Enter Git. When you save a change to a file you create a snapshot or (to use the correct terminology) a "commit". That way, there is always just one copy of your file but multiple snapshots documenting all the changes you've made. But as software development often involves multiple, interconnected files, the commit will be a snapshot not just of an individual file, but of the whole repository at the time the save and commit was made. This way it's very easy to see the development of a project over time and (more importantly) to be able to revert back to a previous version if and when mistakes happen.
 
-As commits are snapshots of a repository as changes are made to it, the linear nature introduces a concept of "branches". All commits belong to a branch. All git repositories have a base branch, often called "master" or "main", which by convention represents the stable, production-ready version of your code. While it is possible to commit directly to this base branch when making changes to your repository, it is ill-advised as it means directly changing this stable version. Instead, it is good practice to create a new branch that branches off of master. When making changes these are committed to the new branch and only once it has been tested/reviewed is it "merged" back into master. 
+As commits are snapshots of a repository as changes are made to it, the linear nature introduces a concept of "branches". All commits belong to a branch. All git repositories have a base branch, often called "main", which by convention represents the stable, production-ready version of your code. While it is possible to commit directly to this base branch when making changes to your repository, it is ill-advised as it means directly changing this stable version. Instead, it is good practice to create a new branch that branches off of main. When making changes these are committed to the new branch and only once it has been tested/reviewed is it "merged" back into main. 
 These are the basics of git. There are lots of guides including [this one](https://guides.github.com/introduction/git-handbook/) from GitHub.
 
 ## Editing the Philomusica website
@@ -59,9 +59,9 @@ These are the basics of git. There are lots of guides including [this one](https
 As a software developer, you ordinarily make changes to your code on your own computer and use Git to create commits, then push those changes to GitHub. You are very welcome to work on the Philomusica website this way, but it does require knowledge of the command-line (think MS-DOS) and can get a little complicated. I instead propose that you edit the files directly within GitHub. When you save the files this way, it creates commits for you and takes the complicated part out of your hands.
 
 Here are a list of steps to take when making changes to the site
-1. Click on the "master" button in the top left with the downwards arrow to change branch
+1. Click on the "main" button in the top left with the downwards arrow to change branch
 2. Where it says "Find or create a branch..." type a name for the branch you wish to create. It can be called anything, but something short and descriptive of the change you will be making is useful.
-3. Click the "Create branch: ... from master" button that appears below
+3. Click the "Create branch: ... from main" button that appears below
 4. Confirm the button in the top left now has the name of your branch with a downards arrows.
 5. From the list of files below, click on the one you wish to edit. If you want to create a file click the "Add file" in the top right
 6. If you are editing an existing file, click on the pencil in the top right of the subsequent screen.
@@ -71,8 +71,8 @@ Here are a list of steps to take when making changes to the site
 10. Click "Commit changes"
 11. Repeat 5-10 for all the changes you wish to make.
 12. When you are ready for the changes to go live, click on the Pull Requests tab at the top and click "New Pull Request".
-13. Ensure "master" is selected for base and your new branch is selected for compare, the click "Create Pull Request".
-14. Your changes are now in the review stage. When anyone clicks the "merge" button on the pull request, the changes are merged into master and the automation I have set up will automatically deploy the latest change to AWS, where it will be visible on the Philomusica website.
+13. Ensure "main" is selected for base and your new branch is selected for compare, the click "Create Pull Request".
+14. Your changes are now in the review stage. When anyone clicks the "merge" button on the pull request, the changes are merged into main and the automation I have set up will automatically deploy the latest change to AWS, where it will be visible on the Philomusica website.
 
 ### Editing the Hugo site
 
