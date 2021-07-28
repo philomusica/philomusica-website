@@ -59,6 +59,11 @@ These are the basics of git. There are lots of guides including [this one](https
 ### How to use GitHub to edit the website
 As a software developer, you ordinarily make changes to your code on your own computer and use Git to create commits, then push those changes to GitHub. You are very welcome to work on the Philomusica website this way, but it does require knowledge of the command-line (think MS-DOS) and can get a little complicated. I instead propose that you edit the files directly within GitHub. When you save the files this way, it creates commits for you and takes the complicated part out of your hands.
 
+### Creating a GitHub account
+Regardless of whether you are editing the site locally on your computer or within the GitHub website, you will require a GitHub account. Navigate to [GitHub's home page](https://github.com), and click "Sign up" in the top right hand corner. Follow their prompts for creating an account.
+
+To work on the Philomusica repositories, you will need to be given permission to the Philomusica organisation under which these repositories sit. I will need to grant your account that permission. However, prior to that you will need to configure your account for Two-Factor Authentication (a security measure you often have for things like online bank accounts where you need to enter both your password and single use code that is sent to you upon attempting to login). Instructions on setting up Two Factor Authentication for your GitHub account can be found [here](https://docs.github.com/en/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication).
+
 Here are a list of steps to take when making changes to the site
 1. Click on the "main" button in the top left with the downwards arrow to change branch
 2. Where it says "Find or create a branch..." type a name for the branch you wish to create. It can be called anything, but something short and descriptive of the change you will be making is useful.
