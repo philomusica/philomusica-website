@@ -1,0 +1,3 @@
+[submodule "themes/philo-hugo-theme"]
+	path = themes/philo-hugo-theme
+	url = https://github.com/philomusica/philo-hugo-theme
