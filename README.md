@@ -1,4 +1,5 @@
 # Philomusica website
+![Github Actions Status Badge](https://github.com/philomusica/philomusica-website/actions/workflows/hugo-deploy.yml/badge.svg)
 
 ## Introduction
 
