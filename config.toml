@@ -1,7 +1,7 @@
-baseURL = "https://philomusica.org.uk"
+baseURL = "https://philomusica.tk"
 languageCode = "en-us"
 title = "Philomusica"
 theme = "philo-hugo-theme"
 [params]
 callToActionText = "Tickets"
-callToActionLink = "http://192.168.1.103:1313/tickets"
+callToActionLink = "http://philomusica.tk/tickets"
