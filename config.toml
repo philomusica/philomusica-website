@@ -1,4 +1,4 @@
-baseURL = "https://philomusica.tk"
+baseURL = "https://philomusica.tk/"
 languageCode = "en-us"
 title = "Philomusica"
 theme = "philo-hugo-theme"
