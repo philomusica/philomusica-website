@@ -1,4 +1,5 @@
 # Philomusica website
+![Github Actions Status Badge](https://github.com/philomusica/philomusica-website/actions/workflows/hugo-deploy.yml/badge.svg)
 
 ## Introduction
 
@@ -43,6 +44,7 @@ Cons
 This is a great middle ground between the two options mentioned above. It's a free and [open-source](https://opensource.com/resources/what-open-source) tool which in some ways works like a website builder. You as the creator add your content and then Hugo combines your content and the static aspects (the theme and functionality) to construct your website, the end product being HTML, CSS and JavaScript files. The big difference is this construction happens once, when the creator runs the Hugo programme, just before uploading the resulting static site to the websever. As it's a static site it has all the benefits of one. Moreover, because it generates the HTML, CSS and JavaScript files for you, you don't need to know how to code to create your site. You add your content to markdown files (with .md extension) which are just text files with a few very simple syntax conventions. Hugo uses your markdown files and does the coding for you.
 
 Your website is stylised through themes. There are many [ready-made Hugo themes](https://themes.gohugo.io/) you can use. Alternatively you can create your own theme, however it does require coding knowledge. For the Philomusica site, I have already coded the theme which means, as the website maintainer, you only need to worry about the easy part of creating and editing content through markdown. However, if you are willing and able, you are very welcome to make changes to the theme as you see fit.
+The theme exists in a [separate git repo](https://github.com/philomusica/philo-hugo-theme) and is imported and used in this repo under the themes/philo-hugo-theme folder. This is referred to as a Git Submodule
 
 ### What is GitHub?
 You are most likely reading this guide on the GitHub website. GitHub is essentially a place to store files in the cloud, like iCloud, Google Drive, Microsoft's OneDrive or Dropbox. In GitHub your storage area is called a repository, which can contain files and folders (sometimes called directories). GitHub allows for multiple, distinct repositories for different pieces of work. One of the areas where it differs from the aforementioned cloud storage services is that it is underpinned by another open-source tool called Git.
@@ -50,7 +52,7 @@ Git is a version control system that tracks changes to files and is primarily us
 
 Enter Git. When you save a change to a file you create a snapshot or (to use the correct terminology) a "commit". That way, there is always just one copy of your file but multiple snapshots documenting all the changes you've made. But as software development often involves multiple, interconnected files, the commit will be a snapshot not just of an individual file, but of the whole repository at the time the save and commit was made. This way it's very easy to see the development of a project over time and (more importantly) to be able to revert back to a previous version if and when mistakes happen.
 
-As commits are snapshots of a repository as changes are made to it, the linear nature introduces a concept of "branches". All commits belong to a branch. All git repositories have a base branch, often called "master" or "main", which by convention represents the stable, production-ready version of your code. While it is possible to commit directly to this base branch when making changes to your repository, it is ill-advised as it means directly changing this stable version. Instead, it is good practice to create a new branch that branches off of master. When making changes these are committed to the new branch and only once it has been tested/reviewed is it "merged" back into master. 
+As commits are snapshots of a repository as changes are made to it, the linear nature introduces a concept of "branches". All commits belong to a branch. All git repositories have a base branch, often called "main", which by convention represents the stable, production-ready version of your code. While it is possible to commit directly to this base branch when making changes to your repository, it is ill-advised as it means directly changing this stable version. Instead, it is good practice to create a new branch that branches off of main. When making changes these are committed to the new branch and only once it has been tested/reviewed is it "merged" back into main. 
 These are the basics of git. There are lots of guides including [this one](https://guides.github.com/introduction/git-handbook/) from GitHub.
 
 ## Editing the Philomusica website
@@ -58,10 +60,15 @@ These are the basics of git. There are lots of guides including [this one](https
 ### How to use GitHub to edit the website
 As a software developer, you ordinarily make changes to your code on your own computer and use Git to create commits, then push those changes to GitHub. You are very welcome to work on the Philomusica website this way, but it does require knowledge of the command-line (think MS-DOS) and can get a little complicated. I instead propose that you edit the files directly within GitHub. When you save the files this way, it creates commits for you and takes the complicated part out of your hands.
 
+### Creating a GitHub account
+Regardless of whether you are editing the site locally on your computer or within the GitHub website, you will require a GitHub account. Navigate to [GitHub's home page](https://github.com), and click "Sign up" in the top right hand corner. Follow their prompts for creating an account.
+
+To work on the Philomusica repositories, you will need to be given permission to the Philomusica organisation under which these repositories sit. I will need to grant your account that permission. However, prior to that you will need to configure your account for Two-Factor Authentication (a security measure you often have for things like online bank accounts where you need to enter both your password and single use code that is sent to you upon attempting to login). Instructions on setting up Two Factor Authentication for your GitHub account can be found [here](https://docs.github.com/en/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication).
+
 Here are a list of steps to take when making changes to the site
-1. Click on the "master" button in the top left with the downwards arrow to change branch
+1. Click on the "main" button in the top left with the downwards arrow to change branch
 2. Where it says "Find or create a branch..." type a name for the branch you wish to create. It can be called anything, but something short and descriptive of the change you will be making is useful.
-3. Click the "Create branch: ... from master" button that appears below
+3. Click the "Create branch: ... from main" button that appears below
 4. Confirm the button in the top left now has the name of your branch with a downards arrows.
 5. From the list of files below, click on the one you wish to edit. If you want to create a file click the "Add file" in the top right
 6. If you are editing an existing file, click on the pencil in the top right of the subsequent screen.
@@ -71,8 +78,8 @@ Here are a list of steps to take when making changes to the site
 10. Click "Commit changes"
 11. Repeat 5-10 for all the changes you wish to make.
 12. When you are ready for the changes to go live, click on the Pull Requests tab at the top and click "New Pull Request".
-13. Ensure "master" is selected for base and your new branch is selected for compare, the click "Create Pull Request".
-14. Your changes are now in the review stage. When anyone clicks the "merge" button on the pull request, the changes are merged into master and the automation I have set up will automatically deploy the latest change to AWS, where it will be visible on the Philomusica website.
+13. Ensure "main" is selected for base and your new branch is selected for compare, the click "Create Pull Request".
+14. Your changes are now in the review stage. When anyone clicks the "merge" button on the pull request, the changes are merged into main and the automation I have set up will automatically deploy the latest change to AWS, where it will be visible on the Philomusica website.
 
 ### Editing the Hugo site
 
@@ -86,6 +93,7 @@ Assuming the website is already setup and running smoothly, you probably won't n
 3. Open a terminal on your computer (Command Prompt if Windows, or a shell if you are on MacOS or Linux) and run 
 `git clone URL`
 where URL is the URL you have copied. This with create a folder with the same name as the GitHub repository with all the content inside.
+To ensure that the themes submodule remains up to date, you can configure git to pull updates from both this repo and the submodule by moving into the philomusica-website repo with `cd philomusica-website`, then run `git config submodule.recurse true`. Now, whenever you run `git pull` within the philomusica-website repo, it will pull changes from both the philomusica-website and philo-hugo-theme repositories.
 
 ### Install Visual Studio Code
 You can use the terminal for everything but if you are not familiar with working with the command line interface, you may want to install a code editor instead. Visual Studio Code is a great, easy-to-use option and can be installed [here](https://code.visualstudio.com/download).
