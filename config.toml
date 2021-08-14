@@ -1,4 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "https://philomusica.org.uk"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "philo"
+title = "Philomusica"
+theme = "philo-hugo-theme"
+[params]
+callToActionText = "Tickets"
+callToActionLink = "http://192.168.1.103:1313/tickets"
