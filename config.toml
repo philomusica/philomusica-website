@@ -4,5 +4,6 @@ title = "Philomusica"
 theme = "philo-hugo-theme"
 uglyurls = true
 [params]
-callToActionText = "Tickets"
-callToActionLink = "/tickets"
+call_to_action_text = "Tickets"
+# If uglyurls is set to true, link need to be suffixed with .html
+caLl_to_action_link = "/tickets.html"
