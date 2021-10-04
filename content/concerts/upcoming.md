@@ -12,5 +12,9 @@ sections:
       | 1034 | 20 November | Holy Trinity,<br />Longlevens,<br />Gloucester | Mozart - Requiem<br />Beethoven - Mass in C |
       | 1035 | 18 December | St Stephen's Church,<br />Barbourne,<br />Worcester | Christmas concert |
       | 1035 | 21 December | Holy Trinity,<br />Longlevens,<br />Gloucester | Christmas concert |
+  - text: |
+      All concerts commence at 7:30 pm unless stated otherwise
+
+      [Purchase tickets](/tickets.html)
 ---
 
