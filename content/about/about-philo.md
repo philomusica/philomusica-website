@@ -30,6 +30,6 @@ sections:
       Right from the very start, we considered that the provision of a wide variety of  music and the giving of concerts in a multitude of venues, large and small, were vital aspects. Over time, through doing this, we've gained many friends and partners who help us achieve these objectives.&nbsp;
       
       We're a very friendly, forward-looking organisation that works hard to attract interest across the generations and cultures. So whatever your age or background, come and meet us, you'll be made very welcome.
-    image: "/img/philo-tewks-with-soloists-min.jpg"
+    image: "/img/philo-back-of-tewks-min.jpg"
     image_description: "Philomusica concert at Tewkesbury Abbey"
 ---

@@ -4,6 +4,9 @@ title = "Philomusica"
 theme = "philo-hugo-theme"
 uglyurls = true
 [params]
+include_home_in_menu = true
 call_to_action_text = "Tickets"
 # If uglyurls is set to true, link need to be suffixed with .html
 caLl_to_action_link = "/tickets.html"
+[markup.goldmark.renderer]
+unsafe= true
