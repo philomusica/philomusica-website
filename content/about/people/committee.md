@@ -1,0 +1,21 @@
+---
+title: "Committee"
+date: 2021-08-31T15:00:15+01:00
+weight: 6
+sections:
+  - text: |
+      | Position | Name |
+      | -------- | ---- |
+      | Chairman | John Quinn |
+      | Vice-Chairman | Lorraine Dodd |
+      | Treasurer	| Terry Heighway |
+      | Secretary	| Kathryn Thurgood |
+      | Worcester Rep	| Tessa Jay |
+      | Gloucester Rep | Bob Howe |
+      | Marketing | Freya Crunden |
+      | Orchestral Rep | Karen Longmate |
+      | General Rep | Derek Taylor |
+      | General Rep | Lyn Rimell | 
+      | Conductor	| Linda Parsons |
+---
+
