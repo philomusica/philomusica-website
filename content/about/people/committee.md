@@ -2,6 +2,10 @@
 title: "Committee"
 date: 2021-08-31T15:00:15+01:00
 weight: 6
+table: true
+thumb:
+  image: "/img/philo-back-of-tewks-min.jpg"
+  image_description: "Photo of Philo concert taken from the back of Tewkesbury Abbey"
 sections:
   - text: |
       | Position | Name |
