@@ -2,6 +2,7 @@
 title: "Altos"
 date: 2021-08-31T14:23:54+01:00
 weight: 2
+no_thumb: true
 sections:
   - text: |
       ## Gaye Boggon

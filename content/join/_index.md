@@ -18,7 +18,7 @@ sections:
       Longford Lane
       Gloucester
       GL2 9EU
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8353.341700514155!2d-2.2309506797371697!3d51.873333539742376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487104317fecf539%3A0xebe15e40b6cc97f0!2sMilestone%20School!5e0!3m2!1sen!2suk!4v1634059815058!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8353.341700514155!2d-2.2309506797371697!3d51.873333539742376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487104317fecf539%3A0xebe15e40b6cc97f0!2sMilestone%20School!5e0!3m2!1sen!2suk!4v1634059815058!5m2!1sen!2suk" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
       <br /> 
       <br /> 
 
@@ -29,7 +29,7 @@ sections:
       St. Stephen's Street
       Worcester
       WR3 7HS
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24820.426381791218!2d-2.2314405932986427!3d52.20827533519884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870f0fcd4ad640d%3A0xd357d6c79cd4b72b!2sThe%20Parish%20Church%20of%20Barbourne%20Saint%20Stephen!5e0!3m2!1sen!2suk!4v1634059028886!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24820.426381791218!2d-2.2314405932986427!3d52.20827533519884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870f0fcd4ad640d%3A0xd357d6c79cd4b72b!2sThe%20Parish%20Church%20of%20Barbourne%20Saint%20Stephen!5e0!3m2!1sen!2suk!4v1634059028886!5m2!1sen!2suk" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
   - text: |
       ## Frequently Asked Questions
       We have tried to anticipate some of the questions you may have and provide the answers.  If you have other questions please don’t hesitate to contact us.
@@ -47,7 +47,7 @@ sections:
       With very rare exceptions all soloists come from the ranks of the chorus.  This means that Philomusica members have the opportunity to take the solo roles in the greatest oratorios ever written.
        
       ### How much does it cost?
-      The annual subscription is set at the Annual General Meeting, currently it is £85 per annum and it may be paid in a variety of staged payments if required.  Some music is provided by Philomusica but in most cases members purchase their own music.
+      The annual subscription is set at the Annual General Meeting, currently it is £90 (£85 concession) per annum and it may be paid in a variety of staged payments if required.  Some music is provided by Philomusica but in most cases members purchase their own music.
 
       ### What type of music do we sing?
       The repertoire is wide and varied but over the years has included most of the great choral masterpieces, with English music being a particular strength.  However we are not restricted to the standard oratorios, performing everything from Bach to Lloyd Webber.  We have also commissioned our own works and regularly perform works by our own members.
