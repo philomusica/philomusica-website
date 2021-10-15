@@ -13,8 +13,8 @@ sections:
       English music has always been at the heart of the choir’s repertoire, especially the music of Sir Edward Elgar. In 1978 Philomusica mounted an ambitious and highly successful two-week festival of Elgar’s music in Tewkesbury. As the centrepiece of the festival Elgar’s two substantial oratorios, The Apostles and The Kingdom were performed in Tewkesbury Abbey. These performances took place on the same day, as Elgar had always hoped; this was the first time that this had been accomplished and attracted Elgar enthusiasts from around the world to the festival. Several more Elgar festivals took place in subsequent years in Hereford, Gloucester and Worcester, further enhancing Philomusica’s reputation in the music of Elgar. 
 
       Highlights of the Society’s history have included performances on two occasions attended by members of the Royal Family; one by the Prince and Princess of Wales and one by Princess Michael of Kent. The choir has also made several highly successful overseas concert tours. In 1990 we visited Holland to take part in a Mozart Festival and in 1996 we visited Metz in Northern France where we joined with a local choir to perform two concerts, including one in Metz Cathedral, and gave a concert on our own in the town’s premier concert hall, L’Arsenal. Two years later we were delighted to host a reciprocal visit by our French colleagues and together we gave performances of the great Te Deum by Berlioz in Pershore Abbey and Gloucester Cathedral, conducted by Jim Cowley. Sadly, those were the last major concerts that he conducted before his death in December 1998.
-    image: "/img/philo-tewks-with-soloists-min.jpg"
-    image_description: "Philomusica concert at Tewkesbury Abbey"
+    image: "/img/philo-chorus-tewks.jpg"
+    image_description: "Philomusica chorus in concert at Tewkesbury Abbey"
   - text: |
       In autumn 2000 Philomusica marked the Millennium by visiting New England where we performed both in Gloucester and Worcester, Massachusetts. The Millennium celebrations continued on our return from the USA; a few weeks later, in Cheltenham Town Hall, we gave the first performance of The Crown of Life, an hour-long piece that we had commissioned from Richard Knight, then the Director of Music at Dean Close School, Cheltenham. Richard himself conducted the première of this colourful and eloquent piece.
 
@@ -23,8 +23,8 @@ sections:
       In the immediate aftermath of Jim Cowley’s death the committee took a deliberate decision to take time before considering the appointment of another principal conductor. However, a key decision was taken at the end of 2001 when Linda Parsons, who had conducted several concerts since Jim’s death, was appointed as Philomusica’s Conductor following a triumphant performance of Elgar’s The Kingdom in Tewkesbury Abbey. Under her leadership the choir has since gone from strength to strength.    
 
       In season 2006/7 Philomusica celebrated its fortieth anniversary. To open the season we gave a gala performance of Elgar’s Dream of Gerontius to a packed and very appreciative audience in Tewkesbury Abbey in November 2006. The concert was our tribute to our President, the distinguished tenor, John Mitchinson. He was our guest soloist, singing the title role, in which he has achieved worldwide acclaim during his long and distinguished career.
-    image: "/img/philo-tewks-with-soloists-min.jpg"
-    image_description: "Philomusica concert at Tewkesbury Abbey"
+    image: "/img/philo-chorus-tewks-2.jpg"
+    image_description: "Philomusica chorus in concert at Tewkesbury Abbey"
   - text: |
       A very notable milestone happily coincided with our fortieth year. On April 28th 2007 Philomusica gave its 900th concert. This also took place in Tewkesbury Abbey with Linda Parsons again on the rostrum to conduct a programme of music by two great composers who were born in the area from which we draw our membership and where we give most of our concerts. Sir Edward Elgar, born in Worcestershire, was represented by his ‘Enigma’ Variations and we also performed the mighty Sea Symphony by Ralph Vaughan Williams, born in Gloucestershire. Their music has featured strongly in our programmes over the years so it was fitting that we included important and much-loved works by both of them on this significant occasion in our history.
 
@@ -37,7 +37,7 @@ sections:
       Philomusica continues to flourish, with a singing membership of over 100. We also continue to maintain the vision of our founders. So we remain a choir that welcomes new members without auditions; except for the occasional distinguished guest all the soloists, even in the most demanding roles, are members of the choir just as has been the case since the start. We love to perform in the two prestigious churches that have become our ‘homes’ for major orchestral concerts, the wonderful abbey churches in Pershore and Tewkesbury but we still take great delight in giving most of our concerts in smaller churches where live concerts are more of a rarity. And we proudly maintain our tradition of raising money for charities, local and national, large and small, through our concerts and we continue to add to the tens of thousands of pounds we’ve helped to raise. Last, but by no means least – indeed, crucially - we continue to have great fun and to enjoy singing great music.
 
       We always welcome new members – and new people to our audiences. So why not join us as a singer or come to listen to our concerts? You can be part of Philomusica!
-    image: "/img/philo-tewks-with-soloists-min.jpg"
-    image_description: "Philomusica concert at Tewkesbury Abbey"
+    image: "/img/linda-conducting-tewks.jpg"
+    image_description: "Linda Parsons conducting Philomusica concert at Tewkesbury Abbey"
 ---
 
