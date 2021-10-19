@@ -14,8 +14,8 @@ sections:
       | Vice-Chairman | Lorraine Dodd |
       | Treasurer	| Terry Heighway |
       | Secretary	| Kathryn Thurgood |
-      | Worcester Rep	| Tessa Jay |
-      | Gloucester Rep | Bob Howe |
+      | Worcester Rep	| Mel Weston |
+      | Gloucester Rep | Carole Anderson |
       | Marketing | Freya Crunden |
       | Orchestral Rep | Karen Longmate |
       | General Rep | Derek Taylor |
