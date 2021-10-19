@@ -13,8 +13,8 @@ sections:
       | Vice-Chairman | Lorraine Dodd | [email](mailto:vchairman@philomusica.org.uk) |
       | Treasurer	| Terry Heighway | [email](mailto:treasurer@philomusica.org.uk) |
       | Secretary	| Kathryn Thurgood | [email](mailto:secretary@philomusica.org.uk) |
-      | Worcester Rep	| Tessa Jay | [email](mailto:worcester@philomusica.org.uk) |
-      | Gloucester Rep | Bob Howe | [email](mailto:gloucester@philomusica.org.uk) |
+      | Worcester Rep	| Mel Weston | [email](mailto:worcester@philomusica.org.uk) |
+      | Gloucester Rep | Carole Anderson | [email](mailto:gloucester@philomusica.org.uk) |
       | Marketing | Freya Crunden | [email](mailto:marketing@philomusica.org.uk) |
       | Orchestral Rep | Karen Longmate | [email](mailto:orchestra@philomusica.org.uk) |
       | General Rep | Derek Taylor | [email](mailto:rep1@philomusica.org.uk) |
