@@ -5,7 +5,11 @@ weight: 2
 sections:
   - text: |
       ## 2021
+      Beethoven - Mass in C
+
       Fauré - Requiem
+
+      Mozart - Requiem
 
       Parsons - Te Deum
 
