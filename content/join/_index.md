@@ -11,6 +11,7 @@ sections:
   - text: |
       ## Rehearsal Venues
       <br />
+
       ### Gloucester
       Friday night rehearsals 7:30 p.m. - 9:30 p.m.
 
