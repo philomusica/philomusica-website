@@ -22,6 +22,8 @@ sections:
       | Conductor	| Linda Parsons | [email](mailto:conductor@philomusica.org.uk) |
   - text: |
       ## AGM 2021
+      [AGM Minutes 2021](/secure/agm-minutes-2021.pdf)
+
       [AGM Minutes 2020](/secure/agm-minutes-2020.pdf)
 
       [Nominations Form 2021](/secure/nominations-form-2021.pdf)
