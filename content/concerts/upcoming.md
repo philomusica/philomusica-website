@@ -10,6 +10,8 @@ sections:
       | ------ | ---- | ----- | --------- |
       | 1035 | 18 December | St Stephen's Church,<br />Barbourne,<br />Worcester | Christmas concert |
       | 1035 | 21 December | Holy Trinity,<br />Longlevens,<br />Gloucester | Christmas concert |
+      | 1036 | 5 March | St Barnabas' Church,<br />Stroud Road,<br />Gloucester | Hugo Fernández Languasco - Missa Brevis<br />Mozart - Vesperae solennes de confessore<br />Chilcott - Requiem |
+      | 1037 | 19 March | Pershore Abbey,<br />Church Walk,<br />Pershore | Hugo Fernández Languasco - Missa Brevis<br />Mozart - Vesperae solennes de confessore<br />Chilcott - Requiem |
   - text: |
       All concerts commence at 7:30 pm unless stated otherwise
 
