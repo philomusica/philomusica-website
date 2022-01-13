@@ -44,7 +44,7 @@ sections:
 
       [The Philomusica Constitution](/secure/the-philomusica-constitution.pdf)
 
-      [Notes for new (and existing) members](/secure/philo-new-members-notes-2017.pdf)
+      [Notes for new (and existing) members](/secure/philo-new-members-notes-2022.pdf)
 
       [Child Safeguarding Policy](/secure/safeguarding-children-policy-and-consent-form.pdf)
 
