@@ -5,6 +5,13 @@ weight: 3
 no_thumb: true
 sections:
   - text: |
+      ## Michael Ferris
+      Michael grew up in Harrow and started singing choral music with his school in a series of Christmas concerts at the Royal Albert Hall. He also had the fortune to perform in the gallery chorus for Parsifal at the Royal Opera House Covent Garden under Sir Georg Solti. He was head chorister of his junior church choir and also performed in several Christian musical stage productions. Later in his school singing 'career' he sang barbershop alongside our own Vice President Roderick Williams.
+
+      After moving to Worcester he took up amateur operatics, taking his first leading tenor roles with Worcester Gilbert & Sullivan Society. In Bristol he performed principal roles with several local societies as well as close harmony ensemble NotaBene and a rock band! Locally, he has spent many years performing with the Cotswold Savoyards as well as the choir of St Peter's Winchcombe. Alongside Philomusica, which he joined in 2019, he is also currently a soloist with Astwood Bank Operatic Society and also has a barbershop quintet called Five in a Bar. His first solo with Philomusica came at very short notice when illness made the tenor role in Mozart's Requiem available.
+    image: /img/mike-ferris.jpg
+    image_description: Portrait photo of Michael Ferris
+  - text: |
       ## Phil Joseph
       Phil started singing with the church choir in his home town of Penarth, where he was head chorister until the age of fourteen. Three school G & S productions followed and since that time he has been a passionate opera fan. Back in the last century he was fortunate enough to be a ‘spear carrier’ for several years with Welsh National Opera, where a highlight was tipping Sir Geraint Evans out of the laundry basket the last time he sang the role of Falstaff, happy days.
 
