@@ -3,7 +3,7 @@ title: "Accompanist"
 date: 2021-08-31T14:59:48+01:00
 sections:
   - text: |
-      Joshua is a freelance musician who works as a performer, accompanist, conductor and teacher. He was invited to take the appointment of accompanist for Philomusica in 2016 and is also currently organist at All Saints Anglican Church in Bisley.
+      Joshua Crunden is a freelance musician who works as a performer, accompanist, conductor and teacher. He was invited to take the appointment of accompanist for Philomusica in 2016 and is also currently organist at All Saints Anglican Church in Bisley.
 
       Joshua enjoys regular work accompanying local choirs, vocalists and instrumentalists including the soprano Phillippa Lay, with whom he has given a number of recitals. Along with fellow Philomusica members, James Quinn and John Kerr, he recently founded a group called Pianissami.With their debut performance in Autumn 2019, the group give recitals that explore the classical piano repertoire. Joshua also plays violin in the Capriol Chamber Orchestra.
 

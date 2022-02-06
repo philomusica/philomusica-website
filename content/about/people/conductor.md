@@ -3,7 +3,7 @@ title: "Conductor"
 date: 2021-08-31T14:59:28+01:00
 sections:
   - text: |
-      Linda is a professional musician who spends her life teaching, conducting, composing and performing.
+      Linda Parsons is a professional musician who spends her life teaching, conducting, composing and performing.
 
       She began her musical studies at the Bromley Music Centre with Mavis Dean (Vocal) and Reginald Jeavons (Piano) and progressed to the Royal Academy of Music where her vocal coach was Bruce Boyce, the celebrated Canadian baritone.
       
