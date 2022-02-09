@@ -21,6 +21,9 @@ sections:
       | General Rep | Lyn Rimell | [email](mailto:rep2@philomusica.org.uk) |
       | Conductor	| Linda Parsons | [email](mailto:conductor@philomusica.org.uk) |
   - text: |
+      ## AGM 2022
+      [Nominations Form](/secure/nominations-form-2022.pdf)
+      
       ## AGM 2021
       [AGM Minutes 2021](/secure/agm-minutes-2021.pdf)
 
