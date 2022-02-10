@@ -24,7 +24,7 @@ sections:
       ## AGM 2022
       [AGM Minutes 2021](/secure/agm-minutes-2021.pdf)
 
-      [Nominations Form](/secure/nominations-form-2022.pdf)
+      [Nominations Form 2022](/secure/nominations-form-2022.pdf)
       
       [End of Year Accounts 2021](/secure/end-of-year-accounts-2021.pdf)
       
