@@ -8,7 +8,6 @@ sections:
   - text: |
       | Number | Date | Venue | Programme |
       | ------ | ---- | ----- | --------- |
-      | 1036 | 5 March | St Barnabas' Church,<br />Stroud Road,<br />Gloucester | Hugo Fernández Languasco - Missa Brevis<br />Mozart - Vesperae solennes de confessore<br />Chilcott - Requiem |
       | 1037 | 19 March | Pershore Abbey,<br />Church Walk,<br />Pershore | Hugo Fernández Languasco - Missa Brevis<br />Mozart - Vesperae solennes de confessore<br />Chilcott - Requiem |
   - text: |
       All concerts commence at 7:30 pm unless stated otherwise

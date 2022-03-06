@@ -4,6 +4,13 @@ date: 2021-07-28T02:59:52+01:00
 weight: 2
 sections:
   - text: |
+      ## 2022
+      Chilcott - Requiem
+
+      Hugo Fernández Languasco - Missa Brevis
+
+      Mozart - Vesperae solennes de confessore
+  - text: |
       ## 2021
       Beethoven - Mass in C
 
