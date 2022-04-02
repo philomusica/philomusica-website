@@ -7,7 +7,7 @@ header: "Philomusica"
 news:
   - title: Concert for Ukraine
     body: |
-      Join Philomusica for a fundraising concert for DEC Ukraine Appeal on Saturday 9 April at 3:30pm. The programme will include music from Bob Chilcott's Requiem, movements from John Rutter's Feel the Spirit and an assortment of pieces for soloists and ensembles.
+      Join Philomusica for a fundraising concert for the DEC Ukraine Appeal on Saturday 9 April at 3:30pm. The programme will include music from Bob Chilcott's Requiem, movements from John Rutter's Feel the Spirit and an assortment of pieces for soloists and ensembles.
     image: '/img/ukraine-concert-poster.jpg'
     image_description: Poster for Philomusica Ukraine fundraiser concert
 ---
