@@ -8,7 +8,7 @@ sections:
   - text: |
       | Number | Date | Venue | Programme |
       | ------ | ---- | ----- | --------- |
-      | CANCELLED! | 19 March | Pershore Abbey,<br />Church Walk,<br />Pershore | CANCELLED! |
+      | 1037 | 9 April<br /><b>@ 3:30pm</b> | Holy Trinity Church,<br />Longlevens,<br />Gloucester | Bob Chilcott - Requiem<br />John Rutter - Feel the Spirit (selected movements)<br /> |
   - text: |
       All concerts commence at 7:30 pm unless stated otherwise
 
