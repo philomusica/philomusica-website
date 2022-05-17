@@ -48,7 +48,7 @@ sections:
       With very rare exceptions all soloists come from the ranks of the chorus.  This means that Philomusica members have the opportunity to take the solo roles in the greatest oratorios ever written.
        
       ### How much does it cost?
-      The annual subscription is set at the Annual General Meeting, currently it is £90 (£85 concession) per annum and it may be paid in a variety of staged payments if required.  Some music is provided by Philomusica but in most cases members purchase their own music.
+      The annual subscription is set at the Annual General Meeting, currently it is £100 (£95 concession) per annum and it may be paid in a variety of staged payments if required.  Some music is provided by Philomusica but in most cases members purchase their own music.
 
       ### What type of music do we sing?
       The repertoire is wide and varied but over the years has included most of the great choral masterpieces, with English music being a particular strength.  However we are not restricted to the standard oratorios, performing everything from Bach to Lloyd Webber.  We have also commissioned our own works and regularly perform works by our own members.

@@ -43,7 +43,7 @@ sections:
       [End of Year Accounts 2019](/secure/end-of-year-accounts-2019.pdf)
   - text: |
       ## Other Documents
-      [Subscription Form 2020](/secure/subscription-form-2020.pdf)
+      [Subscription Form 2022](/secure/subscription-form-2022.pdf)
 
       [The Definitive History of Philomusica 1966-2016](/secure/the-definitive-history-of-philomusica-1966-2016.pdf)
 
