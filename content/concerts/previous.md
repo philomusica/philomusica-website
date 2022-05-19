@@ -27,8 +27,6 @@ sections:
       ## 2019
       Brahms - Requiem
 
-      Chilcott - Requiem
-
       Duruflé - Requiem
 
       Fauré - Cantique de Jean Racine
