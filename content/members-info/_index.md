@@ -15,7 +15,7 @@ sections:
       | Secretary	| Kathryn Thurgood | [email](mailto:secretary@philomusica.org.uk) |
       | Worcester Rep	| Mel Weston | [email](mailto:worcester@philomusica.org.uk) |
       | Gloucester Rep | Carole Anderson | [email](mailto:gloucester@philomusica.org.uk) |
-      | Marketing | Freya Crunden | [email](mailto:marketing@philomusica.org.uk) |
+      | Marketing | Sam Thomas | [email](mailto:marketing@philomusica.org.uk) |
       | Orchestral Rep | Karen Longmate | [email](mailto:orchestra@philomusica.org.uk) |
       | General Rep | Derek Taylor | [email](mailto:rep1@philomusica.org.uk) |
       | General Rep | Lyn Rimell | [email](mailto:rep2@philomusica.org.uk) |

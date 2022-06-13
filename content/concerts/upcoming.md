@@ -8,7 +8,7 @@ sections:
   - text: |
       | Number | Date | Venue | Programme |
       | ------ | ---- | ----- | --------- |
-      | 1037 | 9 April<br /><b>@ 3:30pm</b> | Holy Trinity Church,<br />Longlevens,<br />Gloucester | Bob Chilcott - Requiem<br />John Rutter - Feel the Spirit (selected movements)<br /> |
+      | 1038 | 18 June<br /><b>@ 4:00pm</b> | Holy Trinity Church,<br />Longlevens,<br />Gloucester | Andrew Lloyd Webber - Joseph and the Amazing Technicolor Dreamcoat |
   - text: |
       All concerts commence at 7:30 pm unless stated otherwise
 
