@@ -23,9 +23,6 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: ls public directory
-        run: ls -al public
-
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v1
         with:
