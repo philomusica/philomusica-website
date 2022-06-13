@@ -10,6 +10,9 @@ sections:
       Hugo Fernández Languasco - Missa Brevis
 
       Mozart - Vesperae solennes de confessore
+
+      Rutter - Feel the Spirit (selected movements)
+
   - text: |
       ## 2021
       Beethoven - Mass in C
