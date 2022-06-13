@@ -8,7 +8,7 @@ news:
   - title: Joseph and the Amazing Technicolor Dreamcoat
     body: |
       Join Philomusica for a performance of Andrew Lloyd Weber and Tim Rice's 'Joseph and the Amazing Technicolor Dreamcoat' at Holy Trinity Church, Longlevens on 18 June 2022 @ 4pm. The programme will also include anthems from Parry, Vaughan Williams and Handel.
-    image: '/img/joseph-poster.jpg'
+    image: '/img/joseph-poster.png'
     image_description: Poster for Philomusica's Joseph and the Amazing Technicolor Dreamcoat concert
 ---
 We're a very friendly, forward-looking organisation that works hard to attract interest across the generations and cultures. So whatever your age or background, come and meet us, you'll be made very welcome.
