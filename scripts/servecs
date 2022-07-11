@@ -1,0 +1,3 @@
+#!/bin/bash
+
+hugo serve --baseURL=https://${CODESPACE_NAME}-1313.githubpreview.dev --appendPort=false

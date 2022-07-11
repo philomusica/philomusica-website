@@ -1,0 +1,5 @@
+{
+	"forwardPorts": [ 1313 ],
+	"postCreateCommand": "git submodule update --init --recursive",
+	"postStartCommand": "echo 'export PATH=/workspaces/philomusica-website/scripts:$PATH' >> ~/.bashrc"
+}
