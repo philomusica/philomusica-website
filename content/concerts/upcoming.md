@@ -8,7 +8,8 @@ sections:
   - text: |
       | Number | Date | Venue | Programme |
       | ------ | ---- | ----- | --------- |
-      | 1038 | 18 June<br /><b>@ 4:00pm</b> | Holy Trinity Church,<br />Longlevens,<br />Gloucester | Andrew Lloyd Webber - Joseph and the Amazing Technicolor Dreamcoat |
+      | 1039 | 15 October<br /><b>@ 4:00pm</b> | Holy Trinity Church,<br />Longlevens,<br />Gloucester | Chilcott - Requiem<br/>Bach - Magnificat<br/>Hugo Fernández Languasco - Missa Brevis<br/>Parsons - Te Deum |
+      | 1040 | 5 November<br /><b>@ 2:30pm</b> | Pershore Abbey,<br />Pershore | Chilcott - Requiem<br/>Bach - Magnificat<br/>Hugo Fernández Languasco - Missa Brevis<br/>Parsons - Te Deum |
   - text: |
       All concerts commence at 7:30 pm unless stated otherwise
 
