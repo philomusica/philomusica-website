@@ -7,11 +7,21 @@ sections:
       ## 2022
       Chilcott - Requiem
 
+      Handel - Zadok the Priest
+
       Hugo Fernández Languasco - Missa Brevis
+
+      Lloyd Webber - Joseph and the Amazing Technicolor Dreamcoat
 
       Mozart - Vesperae solennes de confessore
 
+      Parry - I was glad
+
       Rutter - Feel the Spirit (selected movements)
+
+      Vaughan Williams - Antiphon (from Five Mystical Songs)
+
+      Vaughan Williams - O taste and See
 
   - text: |
       ## 2021

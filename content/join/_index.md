@@ -39,7 +39,7 @@ sections:
       Not necessarily but it does obviously help.  What is more important is that you are able to follow simple instructions and that you have “an ear” for music i.e. you can hear a tune and reproduce it.
 
       ### Will I have to pass an audition?
-      No, there are no auditions to join Philomusica, instead we have a one month trial period in which we decide about you and you decide about us.  During that period you will be asked to sing a short piece of your choice to our Conductor in private but only if she needs to assess the range of your voice.
+      No, there are no auditions to join Philomusica, instead there is a trial period in which we decide about you and you decide about us. During that period you will be asked to sing a short piece of your choice to our Conductor in private but only if she needs to assess the range of your voice.
 
       ### How often are concerts held?
       Philomusica normally holds about 12 concerts per year, two of which are performed with our own orchestra.  The orchestral concerts are held in larger venues such as Tewkesbury Abbey, Pershore Abbey, Gloucester Cathedral and Cheltenham Town Hall.  Other concerts are held in a variety of venues throughout Gloucestershire and Worcestershire.
@@ -48,7 +48,7 @@ sections:
       With very rare exceptions all soloists come from the ranks of the chorus.  This means that Philomusica members have the opportunity to take the solo roles in the greatest oratorios ever written.
        
       ### How much does it cost?
-      The annual subscription is set at the Annual General Meeting, currently it is £100 (£95 concession) per annum and it may be paid in a variety of staged payments if required.  Some music is provided by Philomusica but in most cases members purchase their own music.
+      The first term is free for new members. Following that the annual subscription is set at the Annual General Meeting, currently it is £100 (£95 concession) per annum and it may be paid in a variety of staged payments if required.  Some music is provided by Philomusica but in most cases members purchase their own music.
 
       ### What type of music do we sing?
       The repertoire is wide and varied but over the years has included most of the great choral masterpieces, with English music being a particular strength.  However we are not restricted to the standard oratorios, performing everything from Bach to Lloyd Webber.  We have also commissioned our own works and regularly perform works by our own members.
