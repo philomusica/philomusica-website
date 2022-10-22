@@ -16,7 +16,7 @@ sections:
       | Secretary	| Kathryn Thurgood |
       | Worcester Rep	| Mel Weston |
       | Gloucester Rep | Carole Anderson |
-      | Marketing | Freya Crunden |
+      | Marketing | Sam Thomas |
       | Orchestral Rep | Karen Longmate |
       | General Rep | Derek Taylor |
       | General Rep | Lyn Rimell | 
