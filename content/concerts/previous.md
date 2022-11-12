@@ -5,6 +5,8 @@ weight: 2
 sections:
   - text: |
       ## 2022
+      Bach - Magnificat in D BWV 243
+
       Chilcott - Requiem
 
       Handel - Zadok the Priest
@@ -16,6 +18,8 @@ sections:
       Mozart - Vesperae solennes de confessore
 
       Parry - I was glad
+
+      Parsons - Te Deum
 
       Rutter - Feel the Spirit (selected movements)
 
