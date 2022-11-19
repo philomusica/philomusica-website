@@ -11,7 +11,20 @@ sections:
     image_description: Portrait photo of Freya Crunden
   - text: |
       ## Kathryn Jeffree
-      Kathryn was born in Worcester and now lives and teaches in Gloucestershire after some time in Herefordshire; a true Three Counties lady. She has been involved with music all her life; as well as singing she plays piano, flute and recorder. She was, in 1983, the youngest member of the National Youth Choir of Great Britain and has sung in the semi-chorus of the Dream of Gerontius under Vernon Handley in St David's Hall, Cardiff. She sang as a soloist in a celebration concert to commemorate the 150th anniversary of Parry's birth in his own church at Highnam. She is currently studying with John Mitchinson and recently took part in Masterclasses with Sarah Walker and Roderick Williams. Kathryn's solo performances include Vaughan Williams' Sea Symphony, which was part of Philomusica's 900th Concert, Mozart's Mass in C Minor, Haydn's The Creation, and The Angel in Elgar's The Apostles. As well as singing with Philomusica, Kathryn is also a member of the quartet, ‘The Songbards'.
+      Kathryn has been involved with music all her life; as well as singing she
+      plays piano, flute and has conducted many children's choirs and an adult
+      ensemble. She was, in 1983, the youngest member of the National Youth
+      Choir of Great Britain performing in the Royal Albert Hall and has sung in
+      the semi-chorus of the Dream of Gerontius under Vernon Handley in St
+      David's Hall, Cardiff. She sang as a soloist in a celebration concert to
+      commemorate the 150th anniversary of Parry's birth in his own church at
+      Highnam. She has studied with John Mitchinson and has taken part in
+      Masterclasses with Sarah Walker and Roderick Williams. Kathryn's solo
+      performances include Vaughan Williams' Sea Symphony, Mozart's Mass in
+      C Minor, Haydn's The Creation, Elgar's The Apostles and The Kingdom
+      and Brahm's Requiem with Roderick Williams. Kathryn has also
+      performed the solo part in Bob Chilcott's Requiem at a workshop
+      conducted by the composer himself.
     image: /img/kathryn-jeffree.jpg
     image_description: Portrait photo of Kathryn Jeffree
   - text: |
