@@ -19,6 +19,8 @@ sections:
 
       Parry - I was glad
 
+      Parsons - Cradled in a Manger
+
       Parsons - Te Deum
 
       Rutter - Feel the Spirit (selected movements)
