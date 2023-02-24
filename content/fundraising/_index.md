@@ -5,6 +5,6 @@ weight: 6
 layout: "single"
 sections:
   - text: |
-      The next Supper Concert in the series is fast approaching: <b>Saturday 19 November at 7.30pm</b>. The performers will be: Sam Thomas (soprano), Archie Sladden, (baritone) and Laura Morris (French horn). Sam is a member of the choir and one of it's regular soloists. Archie is a choral scholar at Dean Close School. Laura regularly plays as first horn for Philomusica's orchestral concerts. The concerts will take place in <b>York Barn, Tredington GL20 7BP</b> (near Tewkesbury). Those who attended the previous concert will know that it’s a super venue and there’s ample parking. As ever, all proceeds will go to Philo funds. Tickets cost a modest £10 to include supper and your first drink. Please [contact us](/contact.html) for tickets.
+     The next concert in the 2023 series will be another of the perennially popular Young Musicians evenings, featuring <b>four of the amazingly talented singers and instrumentalists from Dean Close School</b>. The concert will take place in <b>York Barn, Tredington GL20 7BP</b> (not far from Tewkesbury). Those who attended the previous concerts will know that it’s a super venue and there’s ample parking. As ever, all proceeds will go to Philo funds. <b>Tickets cost a modest £10 to include supper and your first drink. Available now either through our [contact form](/contact.html), or at rehearsal.
 ---
 
