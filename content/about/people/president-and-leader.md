@@ -1,7 +1,7 @@
 ---
-title: "Leader"
+title: "President and Leader"
 date: 2021-08-31T15:00:22+01:00
-weight: 7
+weight: 4
 sections:
   - text: |
       Christopher Horner was born in London and studied violin at the Centre for Young Musicians, Pimlico with Deryck Wareing, Henry Rubin and Eva Graubin. He furthered his studies with Eva Graubin whilst a student at the Royal Academy of Music, Surrey University and as a postgraduate in Barcelona. He has also received coaching advice from Hugh Bean.
