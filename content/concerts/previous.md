@@ -4,6 +4,16 @@ date: 2021-07-28T02:59:52+01:00
 weight: 2
 sections:
   - text: |
+      ## 2023
+      Elgar - Great is the Lord
+
+      Goodall - Eternal Light: A Requiem
+
+      Parry - Blest Pair of Sirens
+
+      Vaughan Williams - Towards the Unknown Region
+
+  - text: |
       ## 2022
       Bach - Magnificat in D BWV 243
 
