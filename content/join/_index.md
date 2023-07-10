@@ -10,7 +10,7 @@ sections:
       If you are interested in joining our either group then please [contact us](/contact.html)
   - text: |
       ## Rehearsal Venues
-      <br />
+      <br>
 
       ### Gloucester
       Friday night rehearsals 7:30 p.m. - 9:30 p.m.
@@ -19,9 +19,9 @@ sections:
       Longford Lane
       Gloucester
       GL2 9EU
-      <iframe title="Map showing Philomusica's Gloucester rehearsal venue: Milestone School, Gloucester" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8353.341700514155!2d-2.2309506797371697!3d51.873333539742376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487104317fecf539%3A0xebe15e40b6cc97f0!2sMilestone%20School!5e0!3m2!1sen!2suk!4v1634059815058!5m2!1sen!2suk" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-      <br /> 
-      <br /> 
+      <iframe title="Map showing Philomusica's Gloucester rehearsal venue: Milestone School, Gloucester" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8353.341700514155!2d-2.2309506797371697!3d51.873333539742376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487104317fecf539%3A0xebe15e40b6cc97f0!2sMilestone%20School!5e0!3m2!1sen!2suk!4v1634059815058!5m2!1sen!2suk" style="width:100%;height:450px;border:0;" allowfullscreen="" loading="lazy"></iframe>
+      <br>
+      <br>
 
       ### Worcester
       Thursday night rehearsals 7:30 p.m. - 9:30 p.m.
@@ -30,7 +30,7 @@ sections:
       St. Stephen's Street
       Worcester
       WR3 7HS
-      <iframe title="Map showing Philomusica's Worcester rehearsal venue: St. Stephen's Barbourne" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24820.426381791218!2d-2.2314405932986427!3d52.20827533519884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870f0fcd4ad640d%3A0xd357d6c79cd4b72b!2sThe%20Parish%20Church%20of%20Barbourne%20Saint%20Stephen!5e0!3m2!1sen!2suk!4v1634059028886!5m2!1sen!2suk" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+      <iframe title="Map showing Philomusica's Worcester rehearsal venue: St. Stephen's Barbourne" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24820.426381791218!2d-2.2314405932986427!3d52.20827533519884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870f0fcd4ad640d%3A0xd357d6c79cd4b72b!2sThe%20Parish%20Church%20of%20Barbourne%20Saint%20Stephen!5e0!3m2!1sen!2suk!4v1634059028886!5m2!1sen!2suk" style="width:100%;height:450px;border:0;" allowfullscreen="" loading="lazy"></iframe>
   - text: |
       ## Frequently Asked Questions
       We have tried to anticipate some of the questions you may have and provide the answers.  If you have other questions please don’t hesitate to contact us.
