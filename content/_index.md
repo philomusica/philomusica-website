@@ -5,10 +5,8 @@ hero_image: '/img/philo-tewks-with-soloists-min.jpg'
 HeroImageText: "We are the music makers and we are the dreamers of dreams"
 header: "Philomusica"
 news:
-  - title: Verdi's Requiem
+  - title: Handel's Messiah
     body: |
-      Philomusica is joining forces with Cheltenham Philharmonic Orchestra and other choirs from the area to perform <strong>Verdi's Requiem</strong>. The concert will be given at <strong>Cheltenham Town Hall</strong> on <strong>Sunday 25 June</strong> at <strong>3:00pm</strong>. Tickets can be purchased from the [Cheltenham Town Hall box office](https://cheltenhamtownhall.org.uk/event/cheltenham-philharmonic-orchestra-verdi-requiem/). Please join us for this exciting occasion!
-    image: '/img/verdi-poster.png'
-    image_description: Poster for Philomusica's Verdi Requiem concert, summer 2023.
+      After a hugely successful Summer concert, performing Verdi's Requiem at the Cheltenham Town Hall alongside the Cheltenham Philharomic Orchestra, Philo is taking a well-earnt summer break. However, we will be back in the autumn for performances of Handel's Messiah. We hope to see you there!
 ---
 We're a very friendly, forward-looking organisation that works hard to attract interest across the generations and cultures. So whatever your age or background, come and meet us, you'll be made very welcome.

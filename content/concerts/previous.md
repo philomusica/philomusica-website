@@ -12,6 +12,8 @@ sections:
       Parry - Blest Pair of Sirens
 
       Vaughan Williams - Towards the Unknown Region
+      
+      Verdi - Requiem
 
   - text: |
       ## 2022
