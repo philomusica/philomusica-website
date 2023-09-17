@@ -26,7 +26,7 @@ do
 
 	if [[ "$new_file" != "" ]]
 	then
-		aws s3 mv ${BUCKET_NAME}/${f} ${BUCKET_NAME}/${new_file} --metadata '{ "Content-Type": "text/html" }'
+		aws s3 mv s3://${BUCKET_NAME}/${f} s3://${BUCKET_NAME}/${new_file} --metadata '{ "Content-Type": "text/html" }'
 	fi
 	
 done
