@@ -4,7 +4,7 @@ title = "Philomusica"
 theme = "philo-hugo-theme"
 [params]
 include_home_in_menu = true
-call_to_action_text = "Tickets"
+call_to_action_text = "Buy Tickets"
 Description = "Website of mixed voice choir Philomusica; based in Gloucestershire & Worcestershire we are the best and friendliest choir around."
 SiteImage = "/img/logo.jpg"
 RecaptchaKey = "6LfSfwgeAAAAAEp44z7X9pMojMP0gtA0pc2nQTXS"
