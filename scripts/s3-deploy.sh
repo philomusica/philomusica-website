@@ -5,7 +5,7 @@ BUCKET_NAME=$1
 find public -name *.html -exec sed -E -i "s/(href=[a-zA-Z/-]+)\/>/\1>/g" {} \;
 
 # Remove trailing slashes from urls in sitemap.xml
-sed -E -i 's/<loc>([a-z/:.]+)\/<\/loc>/<loc>\1<\/loc>/g' public/sitemap.xml
+sed -E -i 's/<loc>([a-z/:.-]+)\/<\/loc>/<loc>\1<\/loc>/g' public/sitemap.xml
 
 # Deploy to S3
 aws s3 sync public s3://${BUCKET_NAME} --exclude ".git*"  --acl private --follow-symlinks --delete
