@@ -61,11 +61,11 @@ sections:
       KHACHATURIAN
       Concerto 
 
-      MESSIAEN
-      Louange à l'immortalité de Jésus
-
       MENDELSSOHN
       Concerto in e minor Op.64
+
+      MESSIAEN
+      Louange à l'immortalité de Jésus
 
       MOZART
       Concerto No 3 in G major K.216,
