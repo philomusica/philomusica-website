@@ -12,7 +12,7 @@ sections:
 
       Christopher was invited to teach at the Royal Welsh College of Music and Drama in 1999, subsequently becoming Deputy Head of Strings the following year. He left the post in 2009 in order to return to a freelance career. He now teaches violin at Monmouth School for Girls, Monmouth School for Boys and coaches chamber music at the Junior Conservatoire of the Royal Welsh College of Music and Drama.
 
-      In 2020 he will be giving recitals throughout the UK and Spain. He is in increasing demand as an adjudicator at competitions and festivals in the UK and overseas and is a UK and International Music Examiner for Trinity College London.
+      He has recently given recitals with pianists John Lenehan in the UK, including at St David's Hall Cardiff, and Elke Sanjosé in Barcelona. During the past year he has also given a number of recitals in Wales and England with guitarist John Mills. Next month he begins a tour to India as an Examiner for Trinity College London, with recitals and a recording project planned for the New Year.
 
       His CD of the Works for Violin and Piano by Juozas Gruodis with pianist John Lenehan is available on the Discovery Music and Vision and amazon websites via the following links:
 
@@ -61,6 +61,9 @@ sections:
       KHACHATURIAN
       Concerto 
 
+      MESSIAEN
+      Louange à l'immortalité de Jésus
+
       MENDELSSOHN
       Concerto in e minor Op.64
 
@@ -71,6 +74,9 @@ sections:
 
       PROKOVIEV
       Concerto No2 in g minor
+
+      ROXBURGH
+      Violin Sonata
 
       STAMITZ
       Concerto in B flat major
@@ -160,9 +166,10 @@ sections:
       Meditation, Scherzo and Melody
 
       TURINA
-       Sonata No1 in d minor Op51,
+      Sonata No1 in d minor Op51,
       Sonata No2 “Española” Op.82,
       Vasks Little Sumer Music
+      El Poema de una Sanluqueña
 
       VIVALDI
       Sonatas in A major and g minor
