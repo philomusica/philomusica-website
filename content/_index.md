@@ -7,7 +7,7 @@ header: "Philomusica"
 news:
   - title: Handel's Messiah
     body: |
-      Philomusica returns this autumn with performances of Handel's Messiah and Geoffrey Bush's Christmas Cantata at St. Stephen's Barbourne, Worcester and debuting at 'Pip and Jim's' in Cheltenham. To mark Remembrance Sunday, the St. Stephen's concert will include John Ireland's Greater Love Hath No Man. Both concerts will also include a solo violin performance from the Philomusica Orchestra's Leader and newly appointed President, Christopher Horner. Tickets for these and all subsequent concerts can now be purchased directly through this website, on the [tickets](/tickets) page.
+      Philomusica returns this autumn with performances of Handel's Messiah and Geoffrey Bush's Christmas Cantata at St. Stephen's Barbourne, Worcester and debuting at 'Pip and Jim's' in Cheltenham. To mark Remembrance Sunday, the concerts will include John Ireland's Greater Love Hath No Man. Both concerts will also include a performance of the Final Movement from Messiaen's Quartet for the End of Time, in which the Philomusica Orchestra's Leader and newly appointed President, Christopher Horner is joined by pianist James Quinn. Tickets for these and all subsequent concerts can now be purchased directly through this website, on the [tickets](/tickets) page.
     images:
       - image: "img/autumn-23-poster-worcester.jpg"
         image_description: "The poster for Philomusica's Autumn '23 concert at St. Stephen's Barbourne, Worcester"
