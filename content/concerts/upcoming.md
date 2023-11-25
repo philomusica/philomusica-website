@@ -8,8 +8,7 @@ sections:
   - text: |
       | Number | Date | Venue | Programme | Tickets |
       | ------ | ---- | ----- | --------- | ------- |
-      | 1047 | 11 November 2023 | St. Stephen's, Barbourne, Worcester | Handel - Messiah</br>Bush - A Christmas Cantata</br> | [Buy Now](/tickets)
-      | 1048 | 18 November 2023 | St. Philip's & St. James', Cheltenham | Handel - Messiah</br>Bush - A Christmas Cantata</br> | [Buy Now](/tickets)
+      |  | 1 December 2023 | Gloucester Cathedral | A selection of Christmas music as part of</br>Gloucester City Mission's Christmas concert | 
   - text: |
       All concerts commence at 7:30 pm unless stated otherwise
 

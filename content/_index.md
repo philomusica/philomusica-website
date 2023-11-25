@@ -5,13 +5,8 @@ hero_image: '/img/philo-tewks-with-soloists-min.jpg'
 HeroImageText: "We are the music makers and we are the dreamers of dreams"
 header: "Philomusica"
 news:
-  - title: Handel's Messiah
+  - title: Christmas and Beyond
     body: |
-      Philomusica returns this autumn with performances of Handel's Messiah and Geoffrey Bush's Christmas Cantata at St. Stephen's Barbourne, Worcester and debuting at 'Pip and Jim's' in Cheltenham. To mark Remembrance Sunday, the concerts will include John Ireland's Greater Love Hath No Man. Both concerts will also include a performance of the Final Movement from Messiaen's Quartet for the End of Time, in which the Philomusica Orchestra's Leader and newly appointed President, Christopher Horner is joined by pianist James Quinn. Tickets for these and all subsequent concerts can now be purchased directly through this website, on the [tickets](/tickets) page.
-    images:
-      - image: "img/autumn-23-poster-worcester.jpg"
-        image_description: "The poster for Philomusica's Autumn '23 concert at St. Stephen's Barbourne, Worcester"
-      - image: "img/autumn-23-poster-cheltenham.jpg"
-        image_description: "The poster for Philomusica's Autumn '23 concert at Pip and Jim's, Cheltenham"
+      After a very successful performance of Handel's Messiah at St. Stephen's Barbourne and "Pip and Jim's", Cheltenham, Philomusica turns its attention to music for Spring 2024. These concerts will be given at St Stephen's on 24 February and at Holy Trinity, Longlevens on 9 March. The programme will include Gounod's St. Cecilia Mass and Linda Parsons' Tewkesbury Service. There is also one last chance to hear Philo before the end of the year; the choir will be performing as part of Gloucester City Mission's Christmas Carol Concert at Gloucester Cathedral. The concert starts at 7:30pm on 1 December. Please see the [Cathedral's website](https://gloucestercathedral.org.uk/whats-on/gloucester-city-mission-s-christmas-carol-concert) for more details.
 ---
 We're a very friendly, forward-looking organisation that works hard to attract interest across the generations and cultures. So whatever your age or background, come and meet us, you'll be made very welcome.

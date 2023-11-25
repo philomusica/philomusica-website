@@ -5,9 +5,15 @@ weight: 2
 sections:
   - text: |
       ## 2023
+      Geoffrey Bush - A Christmas Cantata 
+
       Elgar - Great is the Lord
 
       Goodall - Eternal Light: A Requiem
+
+      Handel - Messiah | Part 1
+
+      Ireland - Greater Love Hath No Man
 
       Parry - Blest Pair of Sirens
 
