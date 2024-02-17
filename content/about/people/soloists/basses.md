@@ -11,13 +11,11 @@ sections:
     image_description: Portrait photo of Tim Jeffree
   - text: |
       ## James Quinn
-      James has been playing the piano from a very early age but only took up singing when he joined the Bath Spa University Choir as part of his first year BA course. He was then invited to become the choir’s rehearsal accompanist, remaining in that role for three years. He also accompanied the Chamber Choir and acted as répetiteur for several opera and music theatre productions. He found himself in great demand to accompany fellow students in their singing or instrumental recitals. At the same time he continued to develop as a solo pianist and had the opportunity to perform in masterclasses with several distinguished pianists, including Steven Osborne.
+      James has been playing the piano from a very early age. Taking up singing at Bath Spa University, he was then invited to become the choir’s rehearsal accompanist. He also accompanied the Chamber Choir and acted as répetiteur for several opera and music theatre productions. At the same time he continued to develop as a solo pianist and had the opportunity to perform in masterclasses with several distinguished pianists, including Steven Osborne.
 
-      During his studies at Bath Spa University James also had the chance to conduct the University Choir on several occasions, including performances of Zadok The Priest and some of Tippett’s Five Spirituals in concerts given in Bath Abbey.
+      After obtaining the degrees of Bachelors of Music and Masters of Music Performance from Bath Spa University, James returned home to Gloucester and joined Philomusica in January 2012.
 
-      James is the Accompanist for Churchdown Male Voice Choir. A recent highlight was a concert in Tewkesbury Abbey at which he accompanied 300 singers from ten choirs at the 2013 English Association of Male Voice Choirs concert. The choir has recently returned from a tour to North Wales where James accompanied both the choir and soloist Sue Black. Other soloists James has accompanied include Kate Bennett and Kathryn Skipp. He is regularly invited to play for other local choirs, including The Severnside Singers, and the Innsworth Military Wives Choir.
-
-      After obtaining the degrees of Bachelors of Music and Masters of Music Performance from Bath Spa University James returned home to Gloucester and he joined Philomusica in January 2012.
+      James is the Accompanist for Churchdown Male Voice Choir. He is regularly invited to play for other local choirs, including The Severnside Singers, and the Innsworth Military Wives Choir. 
     image: /img/james-quinn.jpg
     image_description: Portrait photo of James Quinn
   - text: |
