@@ -4,6 +4,19 @@ date: 2021-07-28T02:59:52+01:00
 weight: 2
 sections:
   - text: |
+      ## 2024
+      Chilcott - Missa Cantate
+
+      Finzi - God is gone up
+
+      Gounod - St Cecilia Mass
+
+      Ireland - Greater Love Hath No Man
+
+      Knight - Be merciful to me, O God
+
+      Parsons - Tewkesbury Service
+
       ## 2023
       Geoffrey Bush - A Christmas Cantata 
 
