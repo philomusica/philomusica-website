@@ -10,6 +10,8 @@ sections:
       | ------ | ---- | ----- | --------- | ------- |
       | 1050 | 11 May 2024 @ 2pm | St Stephen's, Barbourne, Worcester | Come and Sing workshop: Fauré and Rutter | [Tickets](/tickets) | 
       | 1051 | 19 October 2024 (time: TBC) | Pershore Abbey | Orff <em>Carmina Burana</em></br>Rutter <em>Feel the Spirit</em> |  | 
+      | 1052 | 14 December 2024 (time: TBC) | St Stephen's, Barbourne, Worcester | Christmas concert |  | 
+      | 1051 | 17 December 2024 (time: TBC) | Holy Trinity, Longlevens, Gloucester | Christmas concert |  | 
   - text: |
       All concerts commence at 7:30 pm unless stated otherwise
 
