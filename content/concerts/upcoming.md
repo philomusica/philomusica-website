@@ -9,6 +9,7 @@ sections:
       | Number | Date | Venue | Programme | Tickets |
       | ------ | ---- | ----- | --------- | ------- |
       | 1050 | 11 May 2024 @ 2pm | St Stephen's, Barbourne, Worcester | Come and Sing workshop: Fauré and Rutter | [Tickets](/tickets) | 
+      | 1051 | 19 October 2024 (time: TBC) | Pershore Abbey | Orff <em>Carmina Burana</em></br>Rutter <em>Feel the Spirit</em> |  | 
   - text: |
       All concerts commence at 7:30 pm unless stated otherwise
 
