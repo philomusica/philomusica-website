@@ -5,11 +5,18 @@ hero_image: '/img/philo-tewks-with-soloists-min.jpg'
 HeroImageText: "We are the music makers and we are the dreamers of dreams"
 header: "Philomusica"
 news:
-  - title: Come and Sing | Fauré & Rutter
+  - title: Carmina Burana
     body: |
-      Philomusica are hosting a Come and Sing workshop at <strong>St Stephen's, Barbourne</strong> on <strong>11 May @ 2pm</strong>. The choir will be rehearsing Fauré's Requiem and Rutter's Five Traditional Songs. Don't worry if you don't have the music; scores will be provided. There will also be complimentary refreshments. As always, tickets can be purchased in advance on the [tickets](/tickets) page, or on the door. We look forward to seeing you there!
-    images:
-      - image: /img/come-and-sing-2024.jpeg
-        image_description: "Poster for Philomusica's 2024 Come and Sing Workshop at St Stephen's Barbourne, Worcester"
+      Our next concert includes two showstopper works. <strong>Feel the Spirit by John Rutter</strong> is an exciting and lively suite of seven Spirituals. We’ve performed them several times in the past, both at home and on European tours, and audiences love them. We’ll also sing <strong>Carl Orff’s ever-popular Carmina Burana</strong>, one of the great favourites in the choral repertoire. The concert will take place in <strong>Pershore Abbey on Saturday 19 October</strong>. Please note the early start time of <strong>4pm</strong>.
+
+      Tickets will soon be available through our website so please check back here soon to purchase yours.
+    #images:
+    #  - image:
+    #    image_description: 
+  - title: Supper Concert
+    body: |
+      The next Supper Concert takes place on <strong>September 21st</strong> and will be given by Kathryn Jeffree, soprano and flute, and Gerry Walshe, baritone.
+      
+      The concert will take place in <strong>York Barn, Tredington GL20 7BP</strong> (not far from Tewkesbury). Those who have attended the previous concerts will know that it’s a super venue and there’s ample parking. As ever, <strong>all proceeds will go to Philo funds. Tickets cost a modest £10 to include supper and your first drink. Available now from Linda, either at rehearsal or by emailing conductor@philomusica.org.uk</strong>.
 ---
 We're a very friendly, forward-looking organisation that works hard to attract interest across the generations and cultures. So whatever your age or background, come and meet us, you'll be made very welcome.
