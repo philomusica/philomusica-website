@@ -7,6 +7,8 @@ sections:
       ## 2024
       Chilcott - Missa Cantate
 
+      Fauré - Requiem
+      
       Finzi - God is gone up
 
       Gounod - St Cecilia Mass
@@ -16,6 +18,8 @@ sections:
       Knight - Be merciful to me, O God
 
       Parsons - Tewkesbury Service
+
+      Rutter - Five Traditional Songs
 
       ## 2023
       Geoffrey Bush - A Christmas Cantata 
