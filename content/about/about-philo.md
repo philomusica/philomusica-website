@@ -19,8 +19,8 @@ sections:
       
       We have:
 
-      - Built a choir of over 90 voices
-      - Given over 900 concerts
+      - Built a choir of around 75 voices
+      - Given over 1000 concerts
       - Performed in major venues; Gloucester, Worcester & Hereford Cathedrals as well as Tewkesbury and Pershore Abbeys and Cheltenham Town Hall
       - Performed in a huge number of smaller venues and churches
       - Been on a number of overseas tours: France, Holland, Belgium & the USA

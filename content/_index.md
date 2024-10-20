@@ -13,10 +13,5 @@ news:
     images:
       - image: /img/carmina-burana-poster.png
         image_description: Carmina Burana concert poster
-  - title: Supper Concert
-    body: |
-      The next Supper Concert takes place on <strong>September 21st</strong> and will be given by Kathryn Jeffree, soprano and flute, and Gerry Walshe, baritone.
-      
-      The concert will take place in <strong>York Barn, Tredington GL20 7BP</strong> (not far from Tewkesbury). Those who have attended the previous concerts will know that it’s a super venue and there’s ample parking. As ever, <strong>all proceeds will go to Philo funds. Tickets cost a modest £10 to include supper and your first drink. Available now from Linda, either at rehearsal or by emailing conductor@philomusica.org.uk</strong>.
 ---
 We're a very friendly, forward-looking organisation that works hard to attract interest across the generations and cultures. So whatever your age or background, come and meet us, you'll be made very welcome.

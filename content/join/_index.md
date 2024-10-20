@@ -7,7 +7,7 @@ sections:
   - text: |
       Philomusica always welcomes new members.  If you look at the links on the left you can see when and where we rehearse and also some guidance about what we look for and what you can expect from us.
 
-      If you are interested in joining our either group then please [contact us](/contact.html)
+      If you are interested in joining our either group then please [contact us](/contact)
   - text: |
       ## Rehearsal Venues
       <br>
