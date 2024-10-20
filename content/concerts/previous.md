@@ -17,7 +17,11 @@ sections:
 
       Knight - Be merciful to me, O God
 
+      Orff - Carmina Burana
+
       Parsons - Tewkesbury Service
+
+      Rutter - Feel The Spirit
 
       Rutter - Five Traditional Songs
 
@@ -320,6 +324,7 @@ sections:
 
       Stanford - Songs of the Fleet
   - text: |
+      ## 2003
       Bach - BWV 51-Jauchzet Gott in allen landen
 
       Bononcini - Stabat Mater
