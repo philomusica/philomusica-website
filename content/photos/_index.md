@@ -5,6 +5,9 @@ weight: 5
 photos: true
 sections:
   - images:
+      - source: "/img/choir_and_audience_pershore_2024"
+        description: "Choir and audience in Pershore Abbey, October 2024"
+        caption: "Philo in Pershore Abbey, 2024. Photo courtesy of Mike Glyde"
       - source: "/img/linda_and_choir_pershore_abbey_2024_5.jpeg"
         description: "Linda and the choir performing in Pershore Abbey 2024"
         caption: "Linda and the choir in Pershore Abbey, 2024. Photo courtesy of Mike Glyde"
@@ -48,9 +51,6 @@ sections:
         description: "James playing the piano in Pershore Abbey 2024"
         caption: "James Quinn in Pershore Abbey, 2024. Photo courtesy of Mike Glyde"
       - source: "/img/choir_rehearsal_pershore_abbey_2024_2.jpeg"
-        description: "Choir rehearsing in Pershore Abbey 2024"
-        caption: "Pershore Abbey, 2024. Photo courtesy of Mike Glyde"
-      - source: "/img/choir_rehearsal_pershore_abbey_2024.jpeg"
         description: "Choir rehearsing in Pershore Abbey 2024"
         caption: "Pershore Abbey, 2024. Photo courtesy of Mike Glyde"
       - source: "/img/choir_rehearsal_pershore_abbey_2024.jpeg"
