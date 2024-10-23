@@ -7,11 +7,13 @@ header: "Philomusica"
 news:
   - title: Carmina Burana
     body: |
-      Our next concert includes two showstopper works. <strong>Feel the Spirit by John Rutter</strong> is an exciting and lively suite of seven Spirituals. We’ve performed them several times in the past, both at home and on European tours, and audiences love them. We’ll also sing <strong>Carl Orff’s ever-popular Carmina Burana</strong>, one of the great favourites in the choral repertoire. The concert will take place in <strong>Pershore Abbey on Saturday 19 October</strong>. Please note the early start time of <strong>4pm</strong>.
+      Our October concert at Pershore was a great success. We were supported by a large and very appreciative audience who clearly enjoyed our performances of <em>Feel the Spirit</em> by John Rutter and Carl Orff’s <em>Carmina Burana</em>, not to mention the Regency Percussion Ensemble’s thrilling performance of Leonard Salzedo’s percussion Scherzo. Now we switch our attention to preparing Christmas music. At the heart of our Christmas programme will be <em>On Christmas Night</em>, a delightful suite of carols by Bob Chilcott. Our Christmas concerts will be given at St Stephen’s church, Barbourne, Worcester on Saturday 14 December and at Holy Trinity church, Longlevens, Gloucester on Tuesday 17 December. Both concerts start at 19.30. Do join us if you can.
 
-      Tickets are now available!!! You can purchase them through our <a href="/tickets">online booking system</a>.
+      Many thanks to Mike Gylde for taking some amazing photographs of the concert!
     images:
-      - image: /img/carmina-burana-poster.png
-        image_description: Carmina Burana concert poster
+      - image: /img/choir_and_audience_pershore_2024.jpeg
+        image_description: Choir and audience in Pershore Abbey, October 2024
+      - image: /img/linda_and_choir_pershore_2024.jpeg
+        image_description: Linda and Choir receiving applause at Pershore Abbey, October 2024
 ---
-We're a very friendly, forward-looking organisation that works hard to attract interest across the generations and cultures. So whatever your age or background, come and meet us, you'll be made very welcome.
+Philomusica of Gloucestershire & Worcestershire, widely known as Philo, is a very friendly mixed adult choir of around 75 voices. We have group rehearsals in Worcester on Thursdays and Gloucester on Fridays. Whatever your age or musical background, why not come and meet us? You'll be made very welcome!
