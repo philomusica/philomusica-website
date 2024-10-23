@@ -5,7 +5,7 @@ weight: 5
 photos: true
 sections:
   - images:
-      - source: "/img/choir_and_audience_pershore_2024"
+      - source: "/img/choir_and_audience_pershore_2024.jpeg"
         description: "Choir and audience in Pershore Abbey, October 2024"
         caption: "Philo in Pershore Abbey, 2024. Photo courtesy of Mike Glyde"
       - source: "/img/linda_and_choir_pershore_abbey_2024_5.jpeg"
