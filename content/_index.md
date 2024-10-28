@@ -5,11 +5,13 @@ hero_image: '/img/philo-tewks-with-soloists-min.jpg'
 HeroImageText: "We are the music makers and we are the dreamers of dreams"
 header: "Philomusica"
 news:
-  - title: Carmina Burana
+  - title: Carmina Burana - and Beyond!
     body: |
-      Our October concert at Pershore was a great success. We were supported by a large and very appreciative audience who clearly enjoyed our performances of <em>Feel the Spirit</em> by John Rutter and Carl Orff’s <em>Carmina Burana</em>, not to mention the Regency Percussion Ensemble’s thrilling performance of Leonard Salzedo’s percussion Scherzo. Now we switch our attention to preparing Christmas music. At the heart of our Christmas programme will be <em>On Christmas Night</em>, a delightful suite of carols by Bob Chilcott. Our Christmas concerts will be given at St Stephen’s church, Barbourne, Worcester on Saturday 14 December and at Holy Trinity church, Longlevens, Gloucester on Tuesday 17 December. Both concerts start at 19.30. Do join us if you can.
+      Our October concert at Pershore was a great success. We were supported by a large and very appreciative audience who clearly enjoyed our performances of <em>Feel the Spirit</em> by John Rutter and Carl Orff’s <em>Carmina Burana</em>, not to mention the Regency Percussion Ensemble’s thrilling performance of Leonard Salzedo’s percussion Scherzo. 
+      
+      Now we switch our attention to preparing Christmas music. At the heart of our Christmas programme will be <em>On Christmas Night</em>, a delightful suite of carols by Bob Chilcott. Our Christmas concerts will be given at St Stephen’s church, Barbourne, Worcester on Saturday 14 December and at Holy Trinity church, Longlevens, Gloucester on Tuesday 17 December. Both concerts start at 19.30. Do join us if you can.
 
-      Many thanks to Mike Gylde for taking some amazing photographs of the concert!
+      Many thanks to Mike Gylde for taking some amazing photographs of the concert! you can see more of them – and some pictures of earlier concerts on our [Photos page](/photos)
     images:
       - image: /img/choir_and_audience_pershore_2024.jpeg
         image_description: Choir and audience in Pershore Abbey, October 2024
