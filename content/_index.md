@@ -17,5 +17,10 @@ news:
         image_description: Choir and audience in Pershore Abbey, October 2024
       - image: /img/linda_and_choir_pershore_abbey_2024_5.jpeg
         image_description: Linda and Choir receiving applause at Pershore Abbey, October 2024
+  - title: Supper Concert - Coro Camino
+    body: |
+      The last Supper Concert of 2024 will take place on <strong>Saturday 16 November</strong>. <strong>We will be entertained by Coro Camino, a chamber choir formed by some of our Philo colleagues. The instrumental soloist will be James Quinn (piano)</strong>. All are excellent performers so we should have a great evening of musical entertainment. The concert will take place, as usual, in  <strong>York Barn, Tredington GL20 7BP</strong> (not far from Tewkesbury). Those who have attended the previous concerts will know that it’s a super venue and there’s ample parking. As ever, all proceeds will go to Philo funds. Tickets cost a modest £10 to include supper and your first drink. Available now from Linda, either at rehearsal or through our [contact page](/contact).
+
+      <strong>There are still some seats available for this concert, so book quickly to avoid disappointment!</strong>
 ---
 Philomusica of Gloucestershire & Worcestershire, widely known as Philo, is a very friendly mixed adult choir of around 75 voices. We have group rehearsals in Worcester on Thursdays and Gloucester on Fridays. Whatever your age or musical background, why not come and meet us? You'll be made very welcome!
