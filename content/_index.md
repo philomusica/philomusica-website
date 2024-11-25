@@ -17,5 +17,9 @@ news:
         image_description: Choir and audience in Pershore Abbey, October 2024
       - image: /img/linda_and_choir_pershore_abbey_2024_5.jpeg
         image_description: Linda and Choir receiving applause at Pershore Abbey, October 2024
+      - image: /img/christmas-2024-poster-worcester.png
+        image_description: Christmas 2024 poster for Worcester
+      - image: /img/christmas-2024-poster-gloucester.png
+        image_description: Christmas 2024 poster for Gloucester
 ---
 Philomusica of Gloucestershire & Worcestershire, widely known as Philo, is a very friendly mixed adult choir of around 75 voices. We have group rehearsals in Worcester on Thursdays and Gloucester on Fridays. Whatever your age or musical background, why not come and meet us? You'll be made very welcome!
