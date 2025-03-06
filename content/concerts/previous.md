@@ -4,6 +4,13 @@ date: 2021-07-28T02:59:52+01:00
 weight: 2
 sections:
   - text: |
+      ## 2025
+      William Boyce - Symphony No. 1
+
+      Mozart - Mass in C minor
+
+      Vivaldi - Gloria
+
       ## 2024
       Chilcott - Missa Cantate
 
