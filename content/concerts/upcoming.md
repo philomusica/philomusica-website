@@ -8,8 +8,8 @@ sections:
   - text: |
       | Number | Date | Venue | Programme | Tickets |
       | ------ | ---- | ----- | --------- | ------- |
-      | 1055 | 11 October 2025 - 7:30pm | Holy Trinity, Longlevens, Gloucester | Haydn - Nelson Mass<br/>Elgar - The Apostles (prologue)</br>John Sanders - Te Deum |  |
-      | 1056 | 25 October 2025 - 7:30pm | Pershore Abbey, Pershore | Haydn - Nelson Mass<br/>Elgar - The Apostles (prologue)</br>John Sanders - Te Deum |  |
+      | 1055 | 11 October 2025 - 7:30pm | Holy Trinity, Longlevens, Gloucester | Haydn - Nelson Mass<br/>Elgar - The Apostles (prologue)</br>John Sanders - Te Deum | [Buy Tickets](/tickets) |
+      | 1056 | 25 October 2025 - 7:30pm | Pershore Abbey, Pershore | Haydn - Nelson Mass<br/>Elgar - The Apostles (prologue)</br>John Sanders - Te Deum | [Buy Tickets](/tickets) |
 
 ---
 
