@@ -5,13 +5,13 @@ hero_image: '/img/philo-tewks-with-soloists-min.jpg'
 HeroImageText: "We are the music makers and we are the dreamers of dreams"
 header: "Philomusica"
 news:
-  - title: Spring Concert Success!
+  - title: Autumn Programme
     body: |
-      We thoroughly enjoyed performing Mozart's Mass in C minor and Vivaldi's Gloria in our two spring concerts. We were delighted to see so many of you in the audience for both concerts; many thanks for all of your support! We particularly enjoyed returning to Pip and Jim's in Cheltenham where we were joined by the Philomusica orchestra. The orchestra were on top form, as always, and gave an excellent performance of William Boyce's Symphony No. 1, conducted by our president and leader, Chris Horner. It was wonderful to perform to a full and appreciative audience. Many thanks, as always, to Linda for conducting us, and to all our soloists!
-
-      Our next concerts will be in the autumn, which will include performances of Haydn's <i>Nelson</i> Mass, the prologue to Elgar's <i>The Apostles</i> and John Sanders' <i>Te Deum</i>. Please keep your eyes peeled for posters and tickets, and we look forward to seeing you there!
+      Philomusica returns this October to perform Haydn's exuberant <i>Nelson Mass</i>, the prologue to Elgar's <i>The Apotles</i> and John Sanders' <i>Hymn of Thanksgiving</i>. We will give our first performance at <b>Holy Trinity Church, Longlevens</b> at <b>7:30pm</b> on <b>Saturday 11 October</b>. At our second performance we will be joined by our excellent Philomusica orchestra in <b>Pershore Abbey</b> at <b>7:30pm</b> on <b>Saturday 25 October</b>. [Tickets are now available](/tickets) for both concerts. Book now to avoid disappointment. We look forward to seeing for this really exciting programme. 
     images:
-      - image: /img/spring-2025-pip-and-jims-choir-and-orchestra.jpg
-        image_description: Philomusica concert at Pip and Jim's, Cheltenham, choir and orchestra
+      - image: /img/autumn-2025-poster-gloucester.png
+        image_description: Poster for Autumn 2025 concert at Holy Trinity, Longlevens
+      - image: /img/autumn-2025-poster-pershore.png
+        image_description: Poster for Autumn 2025 concert at Pershore Abbey
 ---
 Philomusica of Gloucestershire & Worcestershire, widely known as Philo, is a very friendly mixed adult choir of around 75 voices. We have group rehearsals in Worcester on Thursdays and Gloucester on Fridays. Whatever your age or musical background, why not come and meet us? You'll be made very welcome!
