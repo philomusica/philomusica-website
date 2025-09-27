@@ -7,7 +7,7 @@ header: "Philomusica"
 news:
   - title: Autumn Programme
     body: |
-      Philomusica returns this October to perform Haydn's exuberant <i>Nelson Mass</i>, the prologue to Elgar's <i>The Apotles</i> and John Sanders' <i>Hymn of Thanksgiving</i>. We will give our first performance at <b>Holy Trinity Church, Longlevens</b> at <b>7:30pm</b> on <b>Saturday 11 October</b>. At our second performance we will be joined by our excellent Philomusica orchestra in <b>Pershore Abbey</b> at <b>7:30pm</b> on <b>Saturday 25 October</b>. [Tickets are now available](/tickets) for both concerts. Book now to avoid disappointment. We look forward to seeing for this really exciting programme. 
+      Philomusica returns this October to perform Haydn's exuberant <i>Nelson Mass</i>, the prologue to Elgar's <i>The Apostles</i> and John Sanders' <i>Hymn of Thanksgiving</i>. We will give our first performance at <b>Holy Trinity Church, Longlevens</b> at <b>7:30pm</b> on <b>Saturday 11 October</b>. At our second performance we will be joined by our excellent Philomusica orchestra in <b>Pershore Abbey</b> at <b>7:30pm</b> on <b>Saturday 25 October</b>. [Tickets are now available](/tickets) for both concerts. Book now to avoid disappointment. We look forward to seeing you for this really exciting programme!
     images:
       - image: /img/autumn-2025-poster-gloucester.png
         image_description: Poster for Autumn 2025 concert at Holy Trinity, Longlevens
