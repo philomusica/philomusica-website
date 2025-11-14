@@ -7,7 +7,15 @@ sections:
       ## 2025
       William Boyce - Symphony No. 1
 
+      Elgar - Serenade for Strings
+
+      Elgar - Prologue (The Apostles)
+
+      Haydn - Nelson Mass
+
       Mozart - Mass in C minor
+
+      Sanders - A Hymn of Thanksgiving
 
       Vivaldi - Gloria
 
