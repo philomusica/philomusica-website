@@ -8,5 +8,8 @@ news:
   - title: Christmas is coming
     body: |
       Following our successful series of autumn concerts, we turn our attention to Christmas. We will return to <b>Holy Trinity, Longlevens</b> on <b>Saturday 13th December @ 19:30</b> to perform a light programme of selected Christmas pieces. To get into that festive mood, and for obligatory mince pies, do join us! Please check back soon for tickets!
+    images:
+    - image: /img/christmas-2025-poster-gloucester.png
+      image_description: Poster for Christmas 2025 concert
 ---
 Philomusica of Gloucestershire & Worcestershire, widely known as Philo, is a very friendly mixed adult choir of around 75 voices. We have group rehearsals in Worcester on Thursdays and Gloucester on Fridays. Whatever your age or musical background, why not come and meet us? You'll be made very welcome!
