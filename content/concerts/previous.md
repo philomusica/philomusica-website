@@ -4,6 +4,21 @@ date: 2021-07-28T02:59:52+01:00
 weight: 2
 sections:
   - text: |
+      ## 2025
+      William Boyce - Symphony No. 1
+
+      Elgar - Serenade for Strings
+
+      Elgar - Prologue (The Apostles)
+
+      Haydn - Nelson Mass
+
+      Mozart - Mass in C minor
+
+      Sanders - A Hymn of Thanksgiving
+
+      Vivaldi - Gloria
+
       ## 2024
       Chilcott - Missa Cantate
 

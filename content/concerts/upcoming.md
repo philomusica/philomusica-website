@@ -8,10 +8,9 @@ sections:
   - text: |
       | Number | Date | Venue | Programme | Tickets |
       | ------ | ---- | ----- | --------- | ------- |
-      | 1051 | 14 December 2024 - 7:30pm | St Stephen's, Barbourne, Worcester | Christmas concert including Chilcott - On Christmas Night |  |
-      | 1052 | 17 December 2024 - 7:30pm | Holy Trinity, Longlevens, Gloucester | Christmas concert including Chilcott - On Christmas Night |  |
-      | 1053 | 22 February 2025 - 7:30pm | St Stephen's, Barbourne, Worcester | Mozart - Mass in C minor<br/>Vivaldi - Gloria |  |
-      | 1054 | 1 March 2025 - 7:30pm | St Philip and St James', Leckhampton, Cheltenham | Mozart - Mass in C minor<br/>Vivaldi - Gloria |  |
-
+      | 1057 | 13 December 2025 - 7:30pm | Holy Trinity, Longlevens, Gloucester | A selection of Christmas pieces | |
+      | 1058 | 14 March 2025 - 7:30pm | St Stephen's, Barbourne, Worcester, WR3 7HS | Duruflé - Requiem</br>Vierne - Messe Solennelle</br>Fauré - Cantique de Jean Racine | |
+      | 1059 | 28 March 2025 - 7:30pm | St. Philip & St. James (Pip and Jim's), Cheltenham, GL50 2DD | Duruflé - Requiem</br>Vierne - Messe Solennelle | |
+      | - | 20 June 2026 - (time TBC) | Cheltenham ladies College, Cheltenham, GL50 3EP | Orff - Carmina Burana</br>Bernstein - Songs from West Side Story</br>Marquez - Danzon No 2</br><em>In collaboration Cheltenham Philharmonic Orchestra</em> | |
+      | 1060 | 31 October 2026 - (time TBC) | Tewkesbury Abbey, Tewkesbury, GL20 5RZ | <b>60th Anniversary Concert</b></br>Parry - I was glad</br>Elgar - Chanson de Matin</br>Vaughan Williams - Serenade to Music</br>Elgar - 'Nimrod' (from 'Enigma' Variations)</br>Elgar - 'For the Fallen' (from The Spirit of England)</br>Stanford - Songs of the Fleet</br>Parry - Blest pair of Sirens | |
 ---
-
