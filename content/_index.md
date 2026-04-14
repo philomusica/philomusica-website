@@ -7,11 +7,10 @@ header: "Philomusica"
 news:
   - title: Spring 2026 concerts!
     body: |
-      We are back following the Christmas holidays and raring to go. This term we tackle the sublime setting of the Requiem by Maurice Duruflé, along with Vierne's Messe Solennelle. We look forward to seeing you at our performances at <strong>St Stephen's Barbourne @ 7:30pm on 14th March</strong> and at <strong>St. Philip and St. James', Cheltenham @ 7:30pm on 28th March</strong>. Tickets for both concerts are [now available](/tickets). We look forward to seeing you there!
-    images:
-      - image: /img/spring-2026-poster-worcester.png
-        image_description: Poster for Philomusica's Spring 2026 concert in Worcester.
-      - image: /img/spring-2026-poster-cheltenham.png
-        image_description: Poster for Philomusica's Spring 2026 concert in Cheltenham.
+      After the great successes of our Spring concerts, Philomusica now turns its attention to its Summer performance of Orff's Carmina Burana with the [Cheltenham Philharmonic Orchestra](https://cheltenhamphilharmonic.co.uk/concerts/2025-26-season/) on <strong>Sunday 28th June 2026 @ 3pm @ Princess Hall, Cheltenham Ladies College</strong>.
+
+      Following that, we have our greatly anticipated <strong>60th Anniversary Concert @ 7:30pm on 31 October @ Tewkesbury Abbey</strong>. We look forward to giving a performance of British choral works that captures of essence and history of Philomusica. Tickets will be available shortly.
+
+      We look forward to seeing you at both concerts!
 ---
 Philomusica of Gloucestershire & Worcestershire, widely known as Philo, is a very friendly mixed adult choir of around 75 voices. We have group rehearsals in Worcester on Thursdays and Gloucester on Fridays. Whatever your age or musical background, why not come and meet us? You'll be made very welcome!

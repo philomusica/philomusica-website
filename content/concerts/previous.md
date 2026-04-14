@@ -4,6 +4,13 @@ date: 2021-07-28T02:59:52+01:00
 weight: 2
 sections:
   - text: |
+      ## 2026
+      Duruflé - Requiem
+
+      Fauré - Cantique de Jean Racine
+
+      Vierne - Messe Solennelle
+
       ## 2025
       William Boyce - Symphony No. 1
 
