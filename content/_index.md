@@ -5,13 +5,11 @@ hero_image: '/img/philo-tewks-with-soloists-min.jpg'
 HeroImageText: "We are the music makers and we are the dreamers of dreams"
 header: "Philomusica"
 news:
-  - title: Spring 2026 concerts!
+  - title: "Sixtieth Anniversary concert: 31 October 2026"
     body: |
-      After the great successes of our Spring concerts, Philomusica now turns its attention to its Summer performance of Orff's Carmina Burana with the [Cheltenham Philharmonic Orchestra](https://cheltenhamphilharmonic.co.uk/concerts/2025-26-season/) on <strong>Sunday 28th June 2026 @ 3pm @ Princess Hall, Cheltenham Ladies College</strong>.
+      We have our greatly anticipated <strong>60th Anniversary Concert @ 7:30pm on 31 October @ Tewkesbury Abbey</strong>. We look forward to giving a performance of British choral works that captures of essence and history of Philomusica. The programme includes music by Elgar, Parry, Stanford and Vaughan Williams. Tickets [are now available](/tickets).
 
-      Following that, we have our greatly anticipated <strong>60th Anniversary Concert @ 7:30pm on 31 October @ Tewkesbury Abbey</strong>. We look forward to giving a performance of British choral works that captures of essence and history of Philomusica. Tickets [are now available](/tickets)
-
-      We look forward to seeing you at both concerts!
+      Do, please, join us for this special concert!
     images:
       - image: /img/autumn-2026-poster.png
         image_description: Poster for Philomusica's 60th Anniversary Concert in Autumn 2026 at Tewkesbury Abbey
